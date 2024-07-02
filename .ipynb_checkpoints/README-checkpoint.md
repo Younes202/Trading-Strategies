@@ -1,0 +1,1 @@
+# Short term indicators version 0.2
